@@ -1,0 +1,1 @@
+LLM-powered healthcare assistant using Retrieval-Augmented Generation, LangChain, Pinecone and Flask for context-aware medical information retrieval.
